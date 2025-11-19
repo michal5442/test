@@ -10,3 +10,9 @@ const b = () =>{
 const c = () =>{
     alert()
 }
+
+
+const e = () =>{
+    alert("e")
+}
+
