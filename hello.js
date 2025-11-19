@@ -10,3 +10,7 @@ const b = () =>{
 const c = () =>{
     alert()
 }
+
+const d = () =>{
+    console.log("dddd")
+}
