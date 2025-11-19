@@ -12,5 +12,5 @@ const c = () =>{
 }
 
 const d = () =>{
-    console.log("dddd")
+    console.log("func dddd")
 }
