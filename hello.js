@@ -13,4 +13,5 @@ const c = () =>{
 
 const d = () =>{
     confirm("Are you sure?")
+    console.log("func dddd")
 }
