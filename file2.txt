@@ -1,1 +1,2 @@
 This is the file2 text
+Add another text.
